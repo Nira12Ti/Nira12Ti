@@ -2,7 +2,6 @@
 - 👀 I’m interested in Software development, Artificial Intelligence.
 - 🌱 I’m currently learning Python, Machine Learning.
 - 💞️ I’m looking to collaborate on Open source projects, AI initiatives, web application development.
-- 📫 How to reach me 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 
